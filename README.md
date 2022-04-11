@@ -8,11 +8,11 @@ This project follows the tutorial of <a href = "https://www.youtube.com/channel/
 
 # EXECUTING THE PROGRAM
 
-* 1. Clone the git 
+1. Clone the git 
 ```bash
 git clone  https://github.com/AsimovNo9/ObjectDetectionSSDMobileNet.git
 ```
-* 2. Run the run_me.py file using your choice of IDE or your commandline 
+2. Run the run_me.py file using your choice of IDE or your commandline 
 ```bash
 python ./run_me.py
 ```
